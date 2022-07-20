@@ -9,7 +9,7 @@ originalfield,metadatablock,metadatafield,id,subfield,level,type
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:rspStmt/ddi:AuthEnty/@affiliation",citation,author,1,authorAffiliation,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:rspStmt/ddi:othId",citation,contributor,1,contributorName,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:subject/ddi:keyword",citation,keyword,1,keywordValue,1,primitive
-"/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:subject/ddi:topcClas",citation,topic,1,term,0,primitive
+"/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:subject/ddi:topcClas",citation,topicClassification,1,topicClassValue,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:subject/ddi:topcClas/@vocab",citation,topicClassification,1,topicClassVocab,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:abstract",citation,dsDescription,1,dsDescriptionValue,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:sumDscr/ddi:collDate",citation,dateOfCollection,1,"dateOfCollectionStart",0,primitive
