@@ -3,9 +3,8 @@
 #datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
 	variable	Variable	This element describes all of the features of a single variable in a social science data file.		none	0		FALSE	FALSE	TRUE	FALSE	FALSE	FALSE		variableInformation	
 	variableId	Variable ID	Id to uniquely identify the variable.		text	1		TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
-	variableName	Variable Name	Concept name in vocabulary		text	2		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
-	variableValue	VariableValue	Concept value in vocabulary		text	3		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
-	variableVocabulary	Variable Vocabulary name	Vocabulary name (ELLST, CBS, etc)		text	4		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
+	variableName	Variable Name	Name of the variable.		text	2		TRUE	TRUE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
+	variableLabel	Variable Label	Short description of the variable.		text	3		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
 	variableVocabularyURI	Variable Vocabulary URI	Concept URI in vocabulary		url	5		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
 	variableValidfrom	VariableValidfrom	Date from which variable is valid		date	6		FALSE	FALSE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
 	variableDefinition	VariableDefinition	Definition of variable in vocabulary		text	7		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
