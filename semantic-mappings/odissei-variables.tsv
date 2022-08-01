@@ -1,7 +1,7 @@
 #metadataBlock	name	dataverseAlias	displayName													
 	variableInformation		Variable Information													
 #datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
-	variable	Variable	This element describes all of the features of a single variable in a social science data file		none	0		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE		odissei	
+	variable	Variable	This element describes all of the features of a single variable in a social science data file		none	0		FALSE	FALSE	TRUE	FALSE	FALSE	FALSE		odissei	
 	variableId	Variable ID	Id of variable in vocabulary		text	1		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	odissei	
 	variableName	Variable Name	Concept name in vocabulary		text	2		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	odissei	
 	variableValue	VariableValue	Concept value in vocabulary		text	3		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	odissei	
