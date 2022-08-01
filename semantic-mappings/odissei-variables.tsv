@@ -1,5 +1,5 @@
 #metadataBlock	name	dataverseAlias	displayName													
-	odissei		ODISSEI Variable names													
+	variableInformation		Variable Information													
 #datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
 	variable	Variable	Linked Data Concept definition for variable		none	0		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE		odissei	
 	variableId	VariableId	Id of variable in vocabulary		text	1		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	odissei	
