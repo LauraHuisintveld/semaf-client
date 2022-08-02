@@ -5,4 +5,4 @@
 	variableId	Variable ID	Id to uniquely identify the variable.		text	1		TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
 	variableName	Variable Name	Name of the variable.		text	2		TRUE	TRUE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
 	variableLabel	Variable Label	Short description of the variable.		text	3		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
-	variableVocabularyURI	Variable Vocabulary URI	Concept URI in vocabulary		url	5		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
+	variableVocabularyURI	Variable Vocabulary URI	Variable URI in vocabulary.		url	5		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE	variable	variableInformation	
