@@ -4,9 +4,9 @@
 	variable	Variable	This element describes all of the features of a single variable in a social science data file.		none	0		FALSE	FALSE	TRUE	FALSE	FALSE	FALSE		variableInformation	
 	conceptVariableName	Conceptual Variable Name	hier komt besschrijving		text	1		TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
 	conceptVariableDefinition	Conceptual Variable Definition	hierkomtdebeschrijving		text	2		TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation	
-	conceptVariableObjecttype	Conceptual Variable Object Type	hierkomtdebeschrijving		text	3		TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation
-	conceptVariableValidFrom	Conceptual Variable Valid from	hierkomtdebeschrijving		text	4		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation							
-	conceptVariableVersion		Conceptual Variable Version	hierkomtdebeschrijving		text	5		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation
+	conceptVariableObjecttype	Conceptual Variable Object Type	hierkomtdebeschrijving		text	3		TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation	
+	conceptVariableValidFrom	Conceptual Variable Valid from	hierkomtdebeschrijving		text	4		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation								
+	conceptVariableVersion		Conceptual Variable Version	hierkomtdebeschrijving		text	5		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation	
 	
 	variableId	Variable ID	Id to uniquely identify the variable.		text	1		TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
 	variableName	Variable Name	Name of the variable.		text	2		TRUE	TRUE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
