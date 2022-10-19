@@ -4,3 +4,4 @@
 	providerName	Provider Name	Name of the organisation that provided the metadata		text	0		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE		CBSMetadata	
 	NaamInDscCatalogus	Name in DSC Catalogue	Naam van het dataontwerp in de DSC catalogus.		text	1		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE		CBSMetadata	
  	UniekeNaam	Unieke Naam	Unieke naam van het dataontwerp in de DSC catalogus.		text	2		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE		CBSMetadata	
+ 	GeldigVanaf	Valid from	Geldig vanaf datum van het dataontwerp in de DSC catalogus.		text	3		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE		CBSMetadata	
