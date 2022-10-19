@@ -1,7 +1,7 @@
 #metadataBlock	name	dataverseAlias	displayName													
 	enrichments		Enriched Metadata													
 #datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
-	variable	Variable	This element describes all of the features of a single (conceptual)variable in a social science data file.		none	0		FALSE	FALSE	TRUE	FALSE	FALSE	FALSE		variableInformation	
+	ELSSTTerm	ELSST Term	This element contains a relevant term from the European Language Social Science Thesaurus.		text	0		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE		enrichments	
 	conceptVariableName	Conceptual Variable Name	Name of the conceptual variable.		text	1		TRUE	FALSE	FALSE	TRUE	FALSE	FALSE	variable	variableInformation	
 	conceptVariableDefinition	Conceptual Variable Definition	The definition of the conceptual variable.		text	2		TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation	
 	conceptVariableObjecttype	Conceptual Variable Object Type	The related object type for the conceptual variable.		text	3		TRUE	FALSE	FALSE	FALSE	FALSE	FALSE	variable	variableInformation	
