@@ -1,4 +1,4 @@
 #metadataBlock	name	dataverseAlias	displayName													
-	enrichments		Enriched Metadata													
+	provenance		Provenance Metadata													
 #datasetField	name	title	description	watermark	 fieldType	displayOrder	displayFormat	advancedSearchField	allowControlledVocabulary	allowmultiples	facetable	displayoncreate	required	parent	metadatablock_id	termURI
-	ELSSTTerm	ELSST Term	This element contains a relevant term from the European Language Social Science Thesaurus.		text	0		TRUE	TRUE	TRUE	TRUE	FALSE	FALSE		enrichments	
+	Workflow	Workflow Information	This element contains information about how this metadata was gathered.		none	0		FALSE	FALSE	FALSE	FALSE	FALSE	FALSE		provenance	
